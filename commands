@@ -1,0 +1,6 @@
+mkdir (name) 
+git clone (add the web url)
+git pull
+cd documents
+cd (name of the folder)
+cd (name of the file)
